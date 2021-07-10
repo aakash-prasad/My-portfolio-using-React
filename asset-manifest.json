@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/my-portfolio-using-React/static/css/main.86bba1eb.chunk.css",
+    "main.js": "/my-portfolio-using-React/static/js/main.86bdb5c1.chunk.js",
+    "main.js.map": "/my-portfolio-using-React/static/js/main.86bdb5c1.chunk.js.map",
+    "runtime-main.js": "/my-portfolio-using-React/static/js/runtime-main.8eb945f5.js",
+    "runtime-main.js.map": "/my-portfolio-using-React/static/js/runtime-main.8eb945f5.js.map",
+    "static/css/2.4be38407.chunk.css": "/my-portfolio-using-React/static/css/2.4be38407.chunk.css",
+    "static/js/2.145a27b3.chunk.js": "/my-portfolio-using-React/static/js/2.145a27b3.chunk.js",
+    "static/js/2.145a27b3.chunk.js.map": "/my-portfolio-using-React/static/js/2.145a27b3.chunk.js.map",
+    "static/js/3.6ac9f781.chunk.js": "/my-portfolio-using-React/static/js/3.6ac9f781.chunk.js",
+    "static/js/3.6ac9f781.chunk.js.map": "/my-portfolio-using-React/static/js/3.6ac9f781.chunk.js.map",
+    "index.html": "/my-portfolio-using-React/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/my-portfolio-using-React/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.86bba1eb.chunk.css.map": "/my-portfolio-using-React/static/css/main.86bba1eb.chunk.css.map",
+    "static/js/2.145a27b3.chunk.js.LICENSE.txt": "/my-portfolio-using-React/static/js/2.145a27b3.chunk.js.LICENSE.txt",
+    "static/media/Androidss.78b492e4.jpg": "/my-portfolio-using-React/static/media/Androidss.78b492e4.jpg",
+    "static/media/IOS.d08d4c49.png": "/my-portfolio-using-React/static/media/IOS.d08d4c49.png",
+    "static/media/aboutImage.a4e93671.jpg": "/my-portfolio-using-React/static/media/aboutImage.a4e93671.jpg",
+    "static/media/digital.2d584255.jpg": "/my-portfolio-using-React/static/media/digital.2d584255.jpg",
+    "static/media/ecom.315be8db.jpg": "/my-portfolio-using-React/static/media/ecom.315be8db.jpg",
+    "static/media/home.66387bb7.jpg": "/my-portfolio-using-React/static/media/home.66387bb7.jpg",
+    "static/media/video.9c038a14.jpg": "/my-portfolio-using-React/static/media/video.9c038a14.jpg",
+    "static/media/web.6754f8f7.jpg": "/my-portfolio-using-React/static/media/web.6754f8f7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8eb945f5.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.145a27b3.chunk.js",
+    "static/css/main.86bba1eb.chunk.css",
+    "static/js/main.86bdb5c1.chunk.js"
+  ]
+}
