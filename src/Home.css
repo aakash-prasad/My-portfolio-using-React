@@ -1,0 +1,13 @@
+.brand-name{
+  color: #565387;
+}
+
+.button{
+  transition: 0.5s;
+}
+
+.button:hover{
+  color: #fff;
+  background-color: #00b894;
+}
+

@@ -1,0 +1,10 @@
+.order-button{
+  background-color: #fff;
+  color: black;
+  transition: 0.5s;
+  border-radius: 20px;
+}
+
+.order-button:hover{
+  background-color: #00b894;
+}
